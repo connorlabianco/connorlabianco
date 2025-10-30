@@ -1,17 +1,19 @@
-[README.md](https://github.com/user-attachments/files/23230161/README.md)
 <div align="center">
 
 # Connor Labianco
 
-### Applied Mathematics, Statistics and Data Science Student | Aspiring AI/ML Engineer
+### UCSB | Applied Mathematics, Statistics and Data Science | Aspiring Machine Learning Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B9D83&center=true&vCenter=true&width=600&lines=Mathematics+%2B+Data+Science;AI+%26+Machine+Learning;Making+a+Real+Difference" alt="Typing SVG" />
 
 ---
 
-I am currently a student at UCSB who is passionate about mathematics and its applications, as well as working with data, AI and machine learning. Outside of classes, I work as a tutor. I am passionate about making a real difference in people's lives, whether it is one person or many.
+I am currently a student at UCSB, passionate about mathematics and its applications, as well as working with data, AI, and machine learning. Outside of classes, I work as a tutor. My goal is to make a real difference in people's lives, whether it is one person or many.
+
+**Currently seeking Summer 2026 internship opportunities in AI/ML, Data Science, or Software Engineering. Open to relocation.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B9D83?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/connorlabianco)
+[![Email](https://img.shields.io/badge/Email-8B9D83?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connoralabianco@gmail.com)
 
 </div>
 
@@ -43,9 +45,11 @@ I am currently a student at UCSB who is passionate about mathematics and its app
 
 ![Python](https://img.shields.io/badge/Python-8B9D83?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-8B9D83?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-8B9D83?style=for-the-badge&logo=react&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-8B9D83?style=for-the-badge&logo=huggingface&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8B9D83?style=for-the-badge&logo=google&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-8B9D83?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8B9D83?style=for-the-badge&logo=javascript&logoColor=white)
+![OpenAI Whisper](https://img.shields.io/badge/OpenAI_Whisper-8B9D83?style=for-the-badge&logo=openai&logoColor=white)
+![Wav2Vec2](https://img.shields.io/badge/Wav2Vec2-8B9D83?style=for-the-badge&logo=huggingface&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8B9D83?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -57,23 +61,31 @@ I am currently a student at UCSB who is passionate about mathematics and its app
 
 <div align="center">
 
-### Languages & Tools
+### Languages
 ![Python](https://img.shields.io/badge/Python-8B9D83?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-8B9D83?style=flat-square&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-8B9D83?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-8B9D83?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-8B9D83?style=flat-square&logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-8B9D83?style=flat-square&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-8B9D83?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-8B9D83?style=flat-square&logo=css3&logoColor=white)
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-D3D3D3?style=flat-square&logo=tensorflow&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-D3D3D3?style=flat-square&logo=pytorch&logoColor=black)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-D3D3D3?style=flat-square&logo=scikit-learn&logoColor=black)
+### Frameworks & Developer Tools
+![React](https://img.shields.io/badge/React-D3D3D3?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-D3D3D3?style=flat-square&logo=node.js&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-D3D3D3?style=flat-square&logo=flask&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-D3D3D3?style=flat-square&logo=fastapi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-D3D3D3?style=flat-square&logo=git&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-D3D3D3?style=flat-square&logo=docker&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-D3D3D3?style=flat-square&logo=google-cloud&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-D3D3D3?style=flat-square&logo=amazon-aws&logoColor=black)
+
+### Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-D3D3D3?style=flat-square&logo=pandas&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-D3D3D3?style=flat-square&logo=numpy&logoColor=black)
-
-### Web Development
-![React](https://img.shields.io/badge/React-D3D3D3?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-D3D3D3?style=flat-square&logo=flask&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-D3D3D3?style=flat-square&logo=node.js&logoColor=black)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-D3D3D3?style=flat-square&logo=scikit-learn&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-D3D3D3?style=flat-square&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-D3D3D3?style=flat-square&logoColor=black)
 
 </div>
 
