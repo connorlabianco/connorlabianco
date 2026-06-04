@@ -4,7 +4,7 @@
 
 ### UCSB | Statistics and Data Science | Aspiring Machine Learning Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B9D83&center=true&vCenter=true&width=600&lines=Mathematics+%2B+Data+Science;AI+%26+Machine+Learning;Making+a+Real+Difference" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B9D83&center=true&vCenter=true&width=600&lines=Statistics+%2B+Data+Science;AI+%26+Machine+Learning;Making+a+Real+Difference" alt="Typing SVG" />
 
 ---
 
