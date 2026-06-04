@@ -10,7 +10,7 @@
 
 I am currently a student at UCSB, passionate about statistics and its applications, as well as working with data, AI, and machine learning. Outside of classes, I work as a tutor, helping like-minded college students excel in their courses. My goal is to make a real difference in people's lives, whether it is one person or many.
 
-**Currently seeking Summer 2026 internship opportunities in AI/ML, Data Science, or Software Engineering. Open to relocation.**
+**Currently seeking Fall 2026 internship opportunities in Data Science, and AI/ML. Open to relocation for Summer 2027.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B9D83?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/connorlabianco)
 [![Email](https://img.shields.io/badge/Email-8B9D83?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connoralabianco@gmail.com)
