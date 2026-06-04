@@ -2,13 +2,13 @@
 
 # Connor Labianco
 
-### UCSB | Applied Mathematics, Statistics and Data Science | Aspiring Machine Learning Engineer
+### UCSB | Statistics and Data Science | Aspiring Machine Learning Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B9D83&center=true&vCenter=true&width=600&lines=Mathematics+%2B+Data+Science;AI+%26+Machine+Learning;Making+a+Real+Difference" alt="Typing SVG" />
 
 ---
 
-I am currently a student at UCSB, passionate about mathematics and its applications, as well as working with data, AI, and machine learning. Outside of classes, I work as a tutor. My goal is to make a real difference in people's lives, whether it is one person or many.
+I am currently a student at UCSB, passionate about statistics and its applications, as well as working with data, AI, and machine learning. Outside of classes, I work as a tutor, helping like-minded college students excel in their courses. My goal is to make a real difference in people's lives, whether it is one person or many.
 
 **Currently seeking Summer 2026 internship opportunities in AI/ML, Data Science, or Software Engineering. Open to relocation.**
 
