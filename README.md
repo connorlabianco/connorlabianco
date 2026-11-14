@@ -4,11 +4,11 @@
 
 ### Statistics & Data Science @ UC Santa Barbara · Data Science · AI/ML
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B9D83&center=true&vCenter=true&width=600&lines=Statistics+%2B+Data+Science;Applied+AI+%26+Machine+Learning;Shipping+tools+people+actually+use" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B9D83&center=true&vCenter=true&width=600&lines=Statistics+%2B+Data+Science;Applied+AI+%26+Machine+Learning;Real+products+for+real+problems" alt="Typing SVG" />
 
 ---
 
-I'm a senior at UCSB studying Statistics and Data Science. I build tools that turn data and AI models into something people can use, and I tutor college students on the side. I care about work that makes a real difference for people, whether that's one person or many.
+I'm a senior at UCSB studying Statistics and Data Science, working to create real products to solve real problems. I also tutor college students.
 
 **Open to full-time roles in Data Science, Data Analytics, and AI/ML starting 2027. Open to relocation.**
 
