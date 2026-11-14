@@ -8,7 +8,7 @@
 
 ---
 
-I'm a senior at UCSB studying Statistics and Data Science, working to create real products to solve real problems. I also tutor college students.
+I'm a senior at UCSB studying Statistics and Data Science, creating real products to solve real problems. My newest project is [CampusPilot](https://github.com/connorlabianco/CampusPilot). I also tutor college students.
 
 **Open to full-time roles in Data Science, Data Analytics, and AI/ML starting 2027. Open to relocation.**
 
