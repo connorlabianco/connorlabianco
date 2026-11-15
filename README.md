@@ -22,7 +22,7 @@ I'm a senior at UCSB studying Statistics and Data Science, creating real product
 
 ## Featured Projects
 
-### [CampusPilot](https://github.com/connorlabianco/CampusPilot): Canvas courses, turned into a study coach
+### [CampusPilot](https://github.com/connorlabianco/campuspilot): Canvas courses, turned into a study coach
 
 My newest project. A free Chrome extension, [live on the Chrome Web Store](https://chromewebstore.google.com/detail/fimfldjklciihkiipnncdgkbegkkcdim), with free Gemini built in or the AI you already use. No account and no server: your data stays in your browser. [Website](https://campuspilot.clabianco.fyi/) · [What's new](https://campuspilot.clabianco.fyi/changelog.html)
 
@@ -30,10 +30,10 @@ My newest project. A free Chrome extension, [live on the Chrome Web Store](https
 - **Answer keys you can trust:** a second model re-solves every new question against the lecture's own text and drops any whose answer looks wrong; calculation questions are re-run in code
 - **Model routing on a free tier:** careful jobs go to Gemini Flash, quick ones to Flash-Lite, and small sorting/checking jobs to Gemma, with structured outputs and per-model rate-limit handling
 - **Planning:** every deadline across courses, exam dates found in syllabi, a weekly calendar built from your class times, and a study plan that fits assignments into your free time and syncs to Google Calendar
-- **Extras:** JupyterHub notebooks as lectures, Gradescope import, Google Drive sync, cross-course search, grade calculator, focus timer
+- **Extras:** JupyterHub notebooks as lectures, learning from graded Gradescope work, Google Drive sync, cross-course search, grade calculator, focus timer
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-8B9D83?style=flat-square&logo=javascript&logoColor=white)
-![Chrome Extension](https://img.shields.io/badge/Chrome_Extension_(MV3)-8B9D83?style=flat-square&logo=googlechrome&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension_%28MV3%29-8B9D83?style=flat-square&logo=googlechrome&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_%2F_Gemma-8B9D83?style=flat-square&logo=google&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-8B9D83?style=flat-square&logo=cloudflare&logoColor=white)
 ![pdf.js](https://img.shields.io/badge/pdf.js-8B9D83?style=flat-square&logoColor=white)
